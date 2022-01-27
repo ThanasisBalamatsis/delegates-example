@@ -19,7 +19,7 @@ namespace Delegates
             Action<Skyscraper> actionHandler = SkyscraperService.ChangeColor;
             actionHandler += SkyscraperService.ChangeHeight;
 
-            skyscraper.Modify(skyscraper, actionHandler);
+            skyscraper.Modify(actionHandler);
         }
     }
 }

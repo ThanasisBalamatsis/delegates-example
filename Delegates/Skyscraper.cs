@@ -11,9 +11,9 @@ namespace Delegates
         public int Height { get; set; }
         public Color Color { get; set; }
 
-        public void Modify(Skyscraper skyscraper, Action<Skyscraper> actionHandler)
+        public void Modify(Action<Skyscraper> actionHandler)
         {
-            actionHandler(skyscraper);
+            actionHandler(this);
         }
     }
 }
