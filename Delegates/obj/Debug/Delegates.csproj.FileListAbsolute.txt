@@ -1,0 +1,7 @@
+D:\Coding Playground\Github Repos\Delegate Example\Delegates\Delegates\bin\Debug\Delegates.exe.config
+D:\Coding Playground\Github Repos\Delegate Example\Delegates\Delegates\bin\Debug\Delegates.exe
+D:\Coding Playground\Github Repos\Delegate Example\Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\Coding Playground\Github Repos\Delegate Example\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+D:\Coding Playground\Github Repos\Delegate Example\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\Coding Playground\Github Repos\Delegate Example\Delegates\Delegates\obj\Debug\Delegates.exe
+D:\Coding Playground\Github Repos\Delegate Example\Delegates\Delegates\obj\Debug\Delegates.pdb
