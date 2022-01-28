@@ -10,15 +10,17 @@ namespace Delegates
     {
         public static void ChangeHeight(Skyscraper skyscraper)
         {
-            
+
             Console.WriteLine($"The skyscraper's new height is");
         }
 
         public static void ChangeColor(Skyscraper skyscraper)
         {
-          
+
             Console.WriteLine($"The skyscraper's new color is");
         }
+
+
 
     }
 }
