@@ -12,11 +12,12 @@ namespace Delegates
         {
             Skyscraper skyscraper = new Skyscraper()
             {
+                Name = "Biggie Small",
                 Height = 100,
                 Color = Color.Red
             };
 
-            Action<Skyscraper> changeName = s => Console.WriteLine("The skyscraper's name is"); // I'm learning about lambda expressions and their conversion to delegates, that's why I added this
+            Action<Skyscraper> changeName = s => Console.WriteLine($"The skyscraper's name is {s.Name}"); // I'm learning about lambda expressions and their conversion to delegates, that's why I added this
 
             Action<Skyscraper> actionHandler = SkyscraperService.ChangeColor;
             actionHandler += SkyscraperService.ChangeHeight;

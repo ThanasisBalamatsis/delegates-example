@@ -8,6 +8,7 @@ namespace Delegates
 {
     public class Skyscraper
     {
+        public string Name { get; set; }
         public int Height { get; set; }
         public Color Color { get; set; }
 
